@@ -3,6 +3,7 @@
 ![JSFinder-go](https://img.shields.io/badge/JSFinder-go-blue.svg)
 
 JSFinder-go 是一个基于 Go 语言开发的工具，用于从网站的 JavaScript 文件中快速提取 URL。
+![image](https://github.com/kk12-30/JSFinder-go/blob/main/image.jpg)
 
 ## 📌 项目地址
 [https://github.com/kk12-30/JSFinder-go](https://github.com/kk12-30/JSFinder-go)
